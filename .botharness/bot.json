@@ -1,0 +1,22 @@
+{
+  "name": "Outreach Writer",
+  "bio": "Drafts outreach around one verified reason for contact, without invented personalization",
+  "tags": [
+    "writing",
+    "outreach",
+    "sales",
+    "email"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 1837487688
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
